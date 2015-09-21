@@ -1,0 +1,3 @@
+var mapv = new Mapv({
+    map: map  // 百度地图的map实例
+});
